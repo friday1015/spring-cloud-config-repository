@@ -2,4 +2,4 @@ demo:
   profile: i'm dev
   said:
     first: Hello
-    second: Config Server
+    second: Config Server [dev]
